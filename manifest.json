@@ -1,0 +1,9 @@
+{
+	"id": "obsidian-avm-file-extensions",
+	"name": "AVM File Extensions",
+	"version": "1.0.0",
+	"minAppVersion": "1.5.7",
+	"description": "Custom file extensions view loader for Ave Maria ecosystem",
+	"author": "Ave Maria",
+	"isDesktopOnly": false
+}
